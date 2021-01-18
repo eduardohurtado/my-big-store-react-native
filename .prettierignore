@@ -1,3 +1,5 @@
+# Put here path/files to ignore with prettier
+
 node_modules/**/*
 .expo/*
 npm-debug.*
